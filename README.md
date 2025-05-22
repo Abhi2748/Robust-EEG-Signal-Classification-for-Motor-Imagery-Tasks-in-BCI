@@ -59,8 +59,7 @@ Focuses on spectral and temporal features. Achieved strong performance at **90.0
 | Baseline (RoCSP) | 86.68            |
 
 ## 🚀 How to Run
-
-1. Open any of the notebooks in the `notebooks/` directory to train and evaluate.
+Open any of the notebooks in the `notebooks/` directory to train and evaluate.
 
 ## 📝 Citation
 
