@@ -58,23 +58,6 @@ Focuses on spectral and temporal features. Achieved strong performance at **90.0
 | ShallowConvNet   | 88.96            |
 | Baseline (RoCSP) | 86.68            |
 
-## 🗂 Repository Structure
-
-```
-bci-motor-imagery-eeg/
-├── data/                          # Preprocessed EEG tensors (not included due to license)
-├── notebooks/
-│   ├── EEGNet-FT.ipynb
-│   ├── DeepConvNet-FT.ipynb
-│   └── ShallowConvNet-FT.ipynb
-├── results/
-│   ├── subject_wise_accuracy.csv
-│   └── summary_metrics.md
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
 ## 🚀 How to Run
 
 1. Open any of the notebooks in the `notebooks/` directory to train and evaluate.
