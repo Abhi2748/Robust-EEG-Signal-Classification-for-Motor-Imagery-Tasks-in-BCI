@@ -77,18 +77,7 @@ bci-motor-imagery-eeg/
 
 ## 🚀 How to Run
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/bci-motor-imagery-eeg.git
-cd bci-motor-imagery-eeg
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open any of the notebooks in the `notebooks/` directory to train and evaluate.
+1. Open any of the notebooks in the `notebooks/` directory to train and evaluate.
 
 ## 📝 Citation
 
